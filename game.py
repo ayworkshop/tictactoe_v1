@@ -2,6 +2,7 @@ import pygame
 pygame.init()
 
 
+
 #set up the screen 
 SCREEN_WIDTH = 500
 SCREEN_HEIGHT = 500 
